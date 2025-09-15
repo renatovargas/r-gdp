@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+  execute-dir: project
+
+book:
+  title: "Exploring Macroeconomic Data with R"
+  subtitle: "An Application of the Data Science Workflow to the System of National Accounts"
+  author: "Renato Vargas"
+  date: "9/11/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
