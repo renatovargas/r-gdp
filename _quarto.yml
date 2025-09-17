@@ -4,7 +4,7 @@ project:
   execute-dir: project
 
 book:
-  title: "Exploring Macroeconomic Data with R"
+  title: "Exploring Supply and Use Tables with R"
   subtitle: "An Application of the Data Science Workflow to the System of National Accounts"
   author: "Renato Vargas"
   date: "9/11/2025"
